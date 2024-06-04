@@ -1,8 +1,8 @@
-# Primeira Aula de Power BI: Criando um meu primero Dashboard
+# Criando meu primero Dashboard em Power BI
 
 ## Introdução
 
-Bem-vindo ao meu primeiro projeto prático de Power BI! Estou compartilhando a minha primeira experiência criando um dashboard financeiro a partir de um conjunto de dados fictício. Este dashboard oferece insights sobre o desempenho financeiro da empresa, incluindo faturamento, produtos mais vendidos, desempenho de clientes e marcas, além da distribuição geográfica das vendas.
+Há algum tempo, iniciei os estudos em Power BI e agora estou compartilhando os resultados da minha evolução. Estou criando um dashboard financeiro a partir de um conjunto de dados fictício. Este dashboard oferece insights sobre o desempenho financeiro da empresa, incluindo faturamento, produtos mais vendidos, desempenho de clientes e marcas, além da distribuição geográfica das vendas.
 
 ## Objetivo
 
